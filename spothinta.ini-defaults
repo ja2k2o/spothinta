@@ -1,0 +1,16 @@
+[hinnat]
+; anna hinnat eurosentteinä per kW
+sahkovero = 2.79372
+valityspalkkio = 0.38
+paivasiirto = 4.92
+yosiirto = 3.01
+; ALV prosentteina
+alv = 24
+
+[tietolahde]
+url = https://dashboard.elering.ee/api/nps/price/
+
+[tallennuspaikka]
+url = 
+tunnus = 
+salasana = 
