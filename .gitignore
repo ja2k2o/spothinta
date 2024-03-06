@@ -1,3 +1,6 @@
+# Actual config file, as it contains secrets
+spothinta.ini
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
